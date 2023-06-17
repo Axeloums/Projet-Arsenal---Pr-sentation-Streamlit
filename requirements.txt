@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-seaborn
-matplotlib.pyplot
-plotly.express
-Image
-plotly.graph_objects
-make_subplots
